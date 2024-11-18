@@ -1,6 +1,23 @@
-## quiz-game-start
-This is a game that selects a question randomly from Data file answerable by true or false. The player is scored based on the number correct answers.
+# 🎮 Quiz Game Start
 
-## Question Generator
+## 📝 Overview
 
-Questions are generated using the [Open Trivia Database (OpenTDB)](https://opentdb.com/api_config.php). By visiting the link, you can configure the type of questions (e.g., category, difficulty, type) and get a unique set of questions for the game.
+A simple quiz game that randomly selects true/false questions. The player is scored based on how many questions they answer correctly. 🎉
+
+## 🔧 Question Generator
+
+Questions are fetched from [Open Trivia Database (OpenTDB)](https://opentdb.com/api_config.php), where you can configure categories, difficulty, and question type.
+
+## 🖥️ Example Game Output
+
+Q.1: A slug's blood is green. (True/False): True  You got it right! Correct answer: True Your score: 1/1
+
+Q.2: The Eiffel Tower is in London. (True/False): False  That's wrong. Correct answer: False Your score: 2/2
+
+## 🚀 How to Play
+
+1. Clone the repo.
+2. Run `main.py` to start the game. 🎮
+3. Answer the questions and track your score! 🏆
+
+Enjoy the quiz! 🙌
