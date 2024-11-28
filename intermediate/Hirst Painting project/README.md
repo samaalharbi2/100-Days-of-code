@@ -17,7 +17,3 @@ Here’s an example of one of Hirst's famous "Spot Paintings":
 
 <img src="https://github.com/samaalharbi2/100-Days-of-code/blob/main/intermediate/Hirst%20Painting%20project/image.jpg" width="200" />
 
-## How to Use
-1. Clone this repository to your local machine using the following command:
-   ```bash
-   git clone https://github.com/yourusername/spot-paintings-project.git
