@@ -13,6 +13,8 @@ The goal of this project is to highlight **Damien Hirst's** exploration of **rep
 
 ## Image Example
 Here’s an example of one of Hirst's famous "Spot Paintings":
+
+
 <img src="https://github.com/samaalharbi2/100-Days-of-code/blob/main/intermediate/Hirst%20Painting%20project/image.jpg" width="200" />
 
 ## How to Use
